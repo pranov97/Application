@@ -1,1 +1,2 @@
-This is FileB
+This is FileA
+Make changes to FileB
